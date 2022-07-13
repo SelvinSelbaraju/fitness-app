@@ -41,7 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2D658ECB287F0FC100737022 /* GenerateIcons.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = GenerateIcons.sh; sourceTree = "<group>"; };
+		2D658ECB287F0FC100737022 /* gen_icons */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = gen_icons; sourceTree = "<group>"; };
 		2DF17D632875D18500452D34 /* fitness-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "fitness-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DF17D662875D18500452D34 /* fitness_appApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fitness_appApp.swift; sourceTree = "<group>"; };
 		2DF17D682875D18500452D34 /* WorkoutListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutListView.swift; sourceTree = "<group>"; };
@@ -113,7 +113,7 @@
 				2DF17D662875D18500452D34 /* fitness_appApp.swift */,
 				2DF17D992875E22C00452D34 /* ChangeSetView.swift */,
 				2DF17D9B2876FA5200452D34 /* ChangeWorkoutView.swift */,
-				2D658ECB287F0FC100737022 /* GenerateIcons.sh */,
+				2D658ECB287F0FC100737022 /* gen_icons */,
 				2DF17D682875D18500452D34 /* WorkoutListView.swift */,
 				2DF17D972875DD5700452D34 /* WorkoutView.swift */,
 				2DF17D952875DA0100452D34 /* ExerciseView.swift */,
